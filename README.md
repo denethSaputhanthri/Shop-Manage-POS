@@ -44,8 +44,6 @@ Shop-Manage-POS/
 - 🟨 **JavaScript (ES6+)**
 - 📄 **HTML5**
 - 🎨 **CSS3**
-- (Optional) UI libraries like Bootstrap or TailwindCSS
-
 ---
 
 ## 🛠️ Getting Started
